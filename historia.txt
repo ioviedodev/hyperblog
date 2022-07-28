@@ -9,11 +9,11 @@ Contribucion de doviedodev.
 
 Main 1
 
-<<<<<<< HEAD
+
 Main 2
-=======
+
 Experiment 1
->>>>>>> a418b5d... Experiment 1
+
 
 Experiment 2
 
