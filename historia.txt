@@ -9,6 +9,10 @@ Contribucion de doviedodev.
 
 Main 1
 
+<<<<<<< HEAD
 Main 2
+=======
+Experiment 1
+>>>>>>> a418b5d... Experiment 1
 
 Le gusta nadar. Por otro lado también le gusta ir al gimnasio.
