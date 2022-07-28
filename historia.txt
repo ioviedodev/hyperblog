@@ -15,4 +15,6 @@ Main 2
 Experiment 1
 >>>>>>> a418b5d... Experiment 1
 
+Experiment 2
+
 Le gusta nadar. Por otro lado también le gusta ir al gimnasio.
